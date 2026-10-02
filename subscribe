@@ -26,3 +26,7 @@ vless://1b719dea-8174-4c27-ae5b-d0d41e227da0@135.106.223.241:655?encryption=none
 vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.241.126:9892?encryption=none&mode=gun&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&security=reality&serviceName=grpc-tunnel&sid=aabb&sni=dl.google.com&type=grpc&fp=chrome#%D0%BF%D0%BA%2F%D1%82%D0%B5%D0%BB%20%F0%9F%8D%91%D0%9F%D0%B5%D1%80%D1%81%D0%B8%D0%BA%20%F0%9F%87%B5%F0%9F%87%B1%20%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%20Reality%20%5BCIDR%5D
 
 vless://0dca2cfe-98eb-4f9d-9a47-cf87510c558b@176.108.253.133:443?encryption=none&security=tls&serviceName=cdn.v1.PlService&sni=pl.avroraservice.online&type=grpc&fp=firefox#%D0%BF%D0%BA%2F%D1%82%D0%B5%D0%BB%20%F0%9F%8D%91%D0%9F%D0%B5%D1%80%D1%81%D0%B8%D0%BA%20%F0%9F%87%B5%F0%9F%87%B1%20%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%20%5BCIDR%5D
+
+vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@188.225.79.44:443?encryption=none&security=reality&sni=eh.vk.ru&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&sid=db04ce8bdb8900f1&fp=firefox&type=raw&flow=xtls-rprx-vision#пк%2Fтел%20🍑Персик%20🇵🇱%20Польша
+
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@45.132.177.72:9844?encryption=none&security=reality&sni=dl.google.com&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aa&type=grpc&serviceName=grpc-tunnel&fp=chrome#пк%2Fтел%20🍑Персик%20🇵🇱%20Польша
