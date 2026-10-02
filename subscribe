@@ -34,3 +34,6 @@ vless://0dca2cfe-98eb-4f9d-9a47-cf87510c558b@176.108.253.133:443?encryption=none
 vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@188.225.79.44:443?encryption=none&security=reality&sni=eh.vk.ru&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&sid=db04ce8bdb8900f1&fp=firefox&type=raw&flow=xtls-rprx-vision#пк%2Fтел%20🍑Персик%20🇵🇱%20Польша
 
 vless://5d16ac22-6eea-426f-b778-6f4c2961faef@45.132.177.72:9844?encryption=none&security=reality&sni=dl.google.com&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aa&type=grpc&serviceName=grpc-tunnel&fp=chrome#пк%2Fтел%20🍑Персик%20🇵🇱%20Польша
+
+hy2://b302a11b-789a-4c9f-81ef-21a48c973511@104.21.72.13:443?insecure=1&upmbps=100&downmbps=100&sni=cloudflare.com#🇩🇪%20Германия%20Hysteria2
+
