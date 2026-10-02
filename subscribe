@@ -13,6 +13,8 @@ hy2://137eed60-89e8-4a8a-aa35-2786cfb5d362@141.0.187.29:443?sni=crt.onecloudstre
 
 #ГЕРМАНИЯ
 
+vless://1b719dea-8174-4c27-ae5b-d0d41e227da0@135.106.223.241:655?encryption=none&security=none&type=tcp#пк%2Fтел%20🍑Персик%20🇩🇪%20Германия%20%5BCIDR%5D
+
 hy2://137eed60-89e8-4a8a-aa35-2786cfb5d362@45.88.12.111:443?sni=crt.onecloudstream.com&alpn=h3&insecure=0#🇩🇪%20пк%2Fтел%20🍑Персик%20Германия%20Hysteria
 
 vless://137eed60-89e8-4a8a-aa35-2786cfb5d362@45.88.12.120:2083?encryption=none&security=tls&sni=crt.onecloudstream.com&type=ws&path=%2Fvless-ws&alpn=http%2F1.1#пк%2Fтел%20🇩🇪%20🍑Персик%20Германия⚡️
